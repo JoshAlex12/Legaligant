@@ -1,0 +1,9 @@
+Read the following
+
+https://medium.com/mlearning-ai/emerging-architecture-for-generative-ai-on-textual-data-a71aaea0087f 
+https://medium.com/@hello_21549/a-beginner-guide-to-generative-ai-bf161b9b91aa  
+https://inceptivetechnologies.com/using-chatgpt-pypdf2-and-langchain-to-train-a-custom-model-for-a-generative-ai-chatbot-part-1/
+https://www.simform.com/blog/how-does-generative-ai-work/
+
+
+This repo has good gen-AI content: https://github.com/filipecalegario/awesome-generative-ai

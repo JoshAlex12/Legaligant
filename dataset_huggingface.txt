@@ -1,0 +1,27 @@
+The API key for the required datasets are mentioned in the website
+
+Dataset1: https://huggingface.co/datasets/Sharathhebbar24/Indian-Constitution
+file name: Final_IC.csv
+
+Dataset2: https://huggingface.co/datasets/nisaar/Constitution_Of_India_Instruction_Set
+file name: Constitution_Of_India_Train.jsonl
+
+Dataset3: https://huggingface.co/datasets/nisaar/Articles_Constitution_3300_Instruction_Set
+file name: Article_12_14_15_19_21_Instructionset_train.jsonl
+
+Dataset4: https://huggingface.co/datasets/nisaar/Constitution_of_India
+file name: 
+
+Dataset5: https://huggingface.co/datasets/moonmelonpizza/constitution_of_india
+
+Dataset6: https://huggingface.co/datasets/AIBOTS/ConstitutionOfIndia
+
+The following websites are to be further analyzed
+
+https://legislative.gov.in/ or https://legislative.gov.in/constitution-of-india/
+https://ncert.nic.in/textbook.php
+https://www.kaggle.com/datasets/piyush242002/cyber-crime-in-india-from-2003/data
+https://www.kaggle.com/discussions/general/436613
+https://www.iitk.ac.in/wc/data/IPC_186045.pdf
+https://apisetu.gov.in/
+https://justicehub.in/dataset
