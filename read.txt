@@ -7,3 +7,4 @@ https://www.simform.com/blog/how-does-generative-ai-work/
 
 
 This repo has good gen-AI content: https://github.com/filipecalegario/awesome-generative-ai
+Check freeGPT
