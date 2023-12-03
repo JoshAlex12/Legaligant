@@ -16,6 +16,25 @@ Dataset5: https://huggingface.co/datasets/moonmelonpizza/constitution_of_india
 
 Dataset6: https://huggingface.co/datasets/AIBOTS/ConstitutionOfIndia
 
+Dataset7: https://huggingface.co/datasets/ninadn/indian-legal
+The above purpose of the dataset is to be found
+
+Dataset8: https://huggingface.co/datasets/nisaar/Indian_Const_Articles_LLAMA2_Format
+
+Dataset9: https://huggingface.co/datasets/harshitv804/Indian_Penal_Code
+
+Dataset10: https://huggingface.co/datasets/Pravincoder/Indian_traffic_law_QA
+
+Dataset11: https://huggingface.co/datasets/Ayansk11/IndianLegalDataset_Llama2
+
+Dataset12: https://huggingface.co/datasets/nisaar/Lawyer_GPT_India
+
+Dataset and models from this user: https://huggingface.co/nisaar && https://huggingface.co/Alignment-Lab-AI && https://huggingface.co/Pravincoder
+
+Dataset13: https://huggingface.co/datasets/Alignment-Lab-AI/Lawyer-Instruct?row=0
+
+Dataset14: 
+
 The following websites are to be further analyzed
 
 https://legislative.gov.in/ or https://legislative.gov.in/constitution-of-india/
@@ -25,3 +44,7 @@ https://www.kaggle.com/discussions/general/436613
 https://www.iitk.ac.in/wc/data/IPC_186045.pdf
 https://apisetu.gov.in/
 https://justicehub.in/dataset
+
+
+
+Keywords: law, constitution, lawyer, indian 
